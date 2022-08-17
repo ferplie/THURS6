@@ -5,16 +5,5 @@
   "main": "index.js",
   "scripts": {
     "build": "rmdir /s /q .\\dist\\css\\ && mkdir .\\dist\\css\\ && del .\\dist\\index.html && copy .\\index.html .\\dist\\index.html && copy .\\css\\styles.css .\\dist\\css\\styles.css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ferplie/THURS2.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ferplie/THURS2/issues"
-  },
-  "homepage": "https://github.com/ferplie/THURS2#readme"
+  }
 }
