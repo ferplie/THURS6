@@ -1,9 +1,12 @@
 {
   "name": "netlify-serverless-demo",
   "version": "1.0.0",
-  "description": "Sample Netlify Site with Serverless Functions",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "rmdir /s /q .\\dist\\css\\ && mkdir .\\dist\\css\\ && del .\\dist\\index.html && copy .\\index.html .\\dist\\index.html && copy .\\css\\styles.css .\\dist\\css\\styles.css"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
