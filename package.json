@@ -2,9 +2,9 @@
   "name": "netlify-serverless-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rmdir /s /q .\\dist\\css\\ && rmdir /s /q .\\dist\\js\\&& mkdir .\\dist\\js &&    copy .\\js\\main.js .\\dist\\js\\main.js &&   mkdir .\\dist\\css\\ && del .\\dist\\index.html && copy .\\index.html .\\dist\\index.html && copy .\\css\\styles.css .\\dist\\css\\styles.css" 
   },
   "keywords": [],
   "author": "",
