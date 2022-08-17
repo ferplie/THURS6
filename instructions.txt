@@ -1,0 +1,18 @@
+
+https://youtu.be/TSQAjWq49iw Steve Griffiths Tutorial 1 (Netlify setup)
+https://youtu.be/TSQAjWq49iw?t=355 Netlify Setup
+https://youtu.be/TSQAjWq49iw?t=372 Testing the app locally (This enables live testing, changes are reflected upon save)  -----[netlify dev] 
+https://youtu.be/TSQAjWq49iw?t=459 Sharing the live developer link: this will push the dev version up to Netlify to share with somebody else ----[netlify dev --live]
+https://youtu.be/TSQAjWq49iw?t=552 Deploying the code to Netlify PS. There does not HAVE to be a publish directory ----[netlify deploy]
+https://youtu.be/TSQAjWq49iw?t=679 Deploying the production code to the Netlify servers ----[netlify deploy --prod]
+https://youtu.be/TSQAjWq49iw?t=801 netlify.toml file is basically just a text file 
+https://youtu.be/ubg5imv2al8 Steve Griffiths Tutorial 2 (Github setup)
+https://youtu.be/ubg5imv2al8?list=PLyuRouwmQCjkMN2iGFfxo8nMTXLqCgUqr&t=24 Create new git repository
+https://youtu.be/ubg5imv2al8?list=PLyuRouwmQCjkMN2iGFfxo8nMTXLqCgUqr&t=67 Create a dist folder, this will be the distribution folder
+https://youtu.be/ubg5imv2al8?list=PLyuRouwmQCjkMN2iGFfxo8nMTXLqCgUqr&t=96 Git init
+https://youtu.be/ubg5imv2al8?list=PLyuRouwmQCjkMN2iGFfxo8nMTXLqCgUqr&t=114 Install npm init -y
+https://youtu.be/ubg5imv2al8?list=PLyuRouwmQCjkMN2iGFfxo8nMTXLqCgUqr&t=143 Edit the scripts in the package.json file
+
+
+
+
