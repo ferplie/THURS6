@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "build": "rmdir ./dist/css/ && rmdir ./dist/js/ && mkdir ./dist/js && cp ./js/main.js ./dist/js/main.js &&   mkdir ./dist/css/ && del ./dist/index.html && cp ./index.html ./dist/index.html && cp ./css/styles.css ./dist/css/styles.css" 
+    "build": "rmdir ./dist/css/* && rmdir ./dist/js/* && mkdir ./dist/js && cp ./js/main.js ./dist/js/main.js &&   mkdir ./dist/css/ && del ./dist/index.html && cp ./index.html ./dist/index.html && cp ./css/styles.css ./dist/css/styles.css" 
   },
   "keywords": [],
   "author": "",
