@@ -1,9 +1,9 @@
 # https://docs.netlify.com/configure-builds/file-based-configuration/
 
 [build]
-  publish = ""
+  publish = "dist"
   # the root website directory
-  command = "echo 'I be building' "
+  command = "npm run build"
   # the build command
   functions = "func/"
   
